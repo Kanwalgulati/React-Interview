@@ -1,9 +1,9 @@
 import React from "react";
-import GridComponent from "./components/GridComponent";
 import "./App.css";
+import PasswordGenerator from "./components/PasswordGenerator";
 
 function App() {
-  return <GridComponent />;
+  return <PasswordGenerator />;
 }
 
 export default App;
