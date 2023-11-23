@@ -1,9 +1,9 @@
 import React from "react";
 import "./App.css";
-import PasswordGenerator from "./components/PasswordGenerator";
+import PaginationComponent from "./components/PaginationComponent";
 
 function App() {
-  return <PasswordGenerator />;
+  return <PaginationComponent />;
 }
 
 export default App;
