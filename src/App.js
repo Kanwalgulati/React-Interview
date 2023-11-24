@@ -1,9 +1,9 @@
 import React from "react";
 import "./App.css";
-import PaginationComponent from "./components/PaginationComponent";
+import EMICalculatorComponent from "./components/EMICalculatorComponent";
 
 function App() {
-  return <PaginationComponent />;
+  return <EMICalculatorComponent />;
 }
 
 export default App;
